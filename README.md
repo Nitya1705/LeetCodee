@@ -27,14 +27,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
