@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Nitya1705/LeetCodee/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Nitya1705/LeetCodee/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Nitya1705/LeetCodee/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Nitya1705/LeetCodee/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitya1705/LeetCodee/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Nitya1705/LeetCodee/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Nitya1705/LeetCodee/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
