@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nitya1705/LeetCodee/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
