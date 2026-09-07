@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nitya1705/LeetCodee/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/Nitya1705/LeetCodee/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Nitya1705/LeetCodee/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nitya1705/LeetCodee/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitya1705/LeetCodee/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
