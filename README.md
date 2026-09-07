@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Nitya1705/LeetCodee/tree/master/0147-insertion-sort-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Nitya1705/LeetCodee/tree/master/0725-split-linked-list-in-parts) |
 ## Stack
 |  |
 | ------- |
