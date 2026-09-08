@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Nitya1705/LeetCodee/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Nitya1705/LeetCodee/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
