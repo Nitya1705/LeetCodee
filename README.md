@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/Nitya1705/LeetCodee/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Nitya1705/LeetCodee/tree/master/1480-running-sum-of-1d-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
