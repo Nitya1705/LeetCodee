@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nitya1705/LeetCodee/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nitya1705/LeetCodee/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/Nitya1705/LeetCodee/tree/master/0147-insertion-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Nitya1705/LeetCodee/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Nitya1705/LeetCodee/tree/master/0725-split-linked-list-in-parts) |
