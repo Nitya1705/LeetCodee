@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nitya1705/LeetCodee/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Nitya1705/LeetCodee/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Nitya1705/LeetCodee/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Nitya1705/LeetCodee/tree/master/1470-shuffle-the-array) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Nitya1705/LeetCodee/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
