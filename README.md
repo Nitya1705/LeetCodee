@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nitya1705/LeetCodee/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nitya1705/LeetCodee/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Nitya1705/LeetCodee/tree/master/0029-divide-two-integers) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nitya1705/LeetCodee/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Nitya1705/LeetCodee/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitya1705/LeetCodee/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
