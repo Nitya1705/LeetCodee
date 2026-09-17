@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitya1705/LeetCodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
+| [0669-trim-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitya1705/LeetCodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
+| [0669-trim-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitya1705/LeetCodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
+| [0669-trim-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitya1705/LeetCodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Trie
