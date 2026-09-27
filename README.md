@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nitya1705/LeetCodee/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/Nitya1705/LeetCodee/tree/master/0412-fizz-buzz) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitya1705/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitya1705/LeetCodee/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nitya1705/LeetCodee/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Nitya1705/LeetCodee/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Nitya1705/LeetCodee/tree/master/0089-gray-code) |
+| [0412-fizz-buzz](https://github.com/Nitya1705/LeetCodee/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Nitya1705/LeetCodee/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Nitya1705/LeetCodee/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
