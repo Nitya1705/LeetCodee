@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Nitya1705/LeetCodee/tree/master/0089-gray-code) |
 | [0412-fizz-buzz](https://github.com/Nitya1705/LeetCodee/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nitya1705/LeetCodee/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
 ## Recursion
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Nitya1705/LeetCodee/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nitya1705/LeetCodee/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nitya1705/LeetCodee/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
