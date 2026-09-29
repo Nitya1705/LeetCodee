@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nitya1705/LeetCodee/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Nitya1705/LeetCodee/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Nitya1705/LeetCodee/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Nitya1705/LeetCodee/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Nitya1705/LeetCodee/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Nitya1705/LeetCodee/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nitya1705/LeetCodee/tree/master/0326-power-of-three) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nitya1705/LeetCodee/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nitya1705/LeetCodee/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Nitya1705/LeetCodee/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Nitya1705/LeetCodee/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nitya1705/LeetCodee/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
