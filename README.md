@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nitya1705/LeetCodee/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Nitya1705/LeetCodee/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Nitya1705/LeetCodee/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nitya1705/LeetCodee/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nitya1705/LeetCodee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nitya1705/LeetCodee/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nitya1705/LeetCodee/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Nitya1705/LeetCodee/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Nitya1705/LeetCodee/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Nitya1705/LeetCodee/tree/master/0217-contains-duplicate) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nitya1705/LeetCodee/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/Nitya1705/LeetCodee/tree/master/0835-image-overlap) |
 ## Heap (Priority Queue)
 |  |
