@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Nitya1705/LeetCodee/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Nitya1705/LeetCodee/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Nitya1705/LeetCodee/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/Nitya1705/LeetCodee/tree/master/0412-fizz-buzz) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nitya1705/LeetCodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitya1705/LeetCodee/tree/master/0145-binary-tree-postorder-traversal) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 ## Counting Sort
 |  |
