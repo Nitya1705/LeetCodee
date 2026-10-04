@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nitya1705/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nitya1705/LeetCodee/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Nitya1705/LeetCodee/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nitya1705/LeetCodee/tree/master/0024-swap-nodes-in-pairs) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/1137-n-th-tribonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nitya1705/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
