@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitya1705/LeetCodee/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitya1705/LeetCodee/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Nitya1705/LeetCodee/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitya1705/LeetCodee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Nitya1705/LeetCodee/tree/master/0036-valid-sudoku) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitya1705/LeetCodee/tree/master/0004-median-of-two-sorted-arrays) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitya1705/LeetCodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0669-trim-a-binary-search-tree) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitya1705/LeetCodee/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Nitya1705/LeetCodee/tree/master/0023-merge-k-sorted-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
