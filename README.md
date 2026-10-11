@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nitya1705/LeetCodee/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitya1705/LeetCodee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Nitya1705/LeetCodee/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Nitya1705/LeetCodee/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitya1705/LeetCodee/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Nitya1705/LeetCodee/tree/master/0136-single-number) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Nitya1705/LeetCodee/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/Nitya1705/LeetCodee/tree/master/0089-gray-code) |
 ## Bracket Sequences
 |  |
