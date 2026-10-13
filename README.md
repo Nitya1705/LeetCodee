@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nitya1705/LeetCodee/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Nitya1705/LeetCodee/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/Nitya1705/LeetCodee/tree/master/0412-fizz-buzz) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitya1705/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
