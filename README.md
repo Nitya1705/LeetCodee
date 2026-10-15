@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Nitya1705/LeetCodee/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Nitya1705/LeetCodee/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitya1705/LeetCodee/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Nitya1705/LeetCodee/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Nitya1705/LeetCodee/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Nitya1705/LeetCodee/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
@@ -321,5 +322,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitya1705/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitya1705/LeetCodee/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Nitya1705/LeetCodee/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitya1705/LeetCodee/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
