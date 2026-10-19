@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nitya1705/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Nitya1705/LeetCodee/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Nitya1705/LeetCodee/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Nitya1705/LeetCodee/tree/master/0012-integer-to-roman) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nitya1705/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/0509-fibonacci-number) |
@@ -320,8 +322,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nitya1705/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nitya1705/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitya1705/LeetCodee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nitya1705/LeetCodee/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitya1705/LeetCodee/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nitya1705/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
