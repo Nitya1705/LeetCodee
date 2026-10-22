@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nitya1705/LeetCodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Nitya1705/LeetCodee/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Nitya1705/LeetCodee/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nitya1705/LeetCodee/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nitya1705/LeetCodee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitya1705/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Nitya1705/LeetCodee/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Nitya1705/LeetCodee/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Nitya1705/LeetCodee/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/Nitya1705/LeetCodee/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nitya1705/LeetCodee/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nitya1705/LeetCodee/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitya1705/LeetCodee/tree/master/0342-power-of-four) |
@@ -339,8 +341,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitya1705/LeetCodee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nitya1705/LeetCodee/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitya1705/LeetCodee/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0202-happy-number](https://github.com/Nitya1705/LeetCodee/tree/master/0202-happy-number) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nitya1705/LeetCodee/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nitya1705/LeetCodee/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
