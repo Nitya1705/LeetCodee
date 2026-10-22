@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nitya1705/LeetCodee/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Nitya1705/LeetCodee/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Nitya1705/LeetCodee/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/Nitya1705/LeetCodee/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nitya1705/LeetCodee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitya1705/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Nitya1705/LeetCodee/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nitya1705/LeetCodee/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Nitya1705/LeetCodee/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Nitya1705/LeetCodee/tree/master/0905-sort-array-by-parity) |
 | [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nitya1705/LeetCodee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Nitya1705/LeetCodee/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitya1705/LeetCodee/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Nitya1705/LeetCodee/tree/master/0202-happy-number) |
+| [0905-sort-array-by-parity](https://github.com/Nitya1705/LeetCodee/tree/master/0905-sort-array-by-parity) |
 ## Manacher
 |  |
 | ------- |
