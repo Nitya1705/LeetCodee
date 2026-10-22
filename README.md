@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nitya1705/LeetCodee/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Nitya1705/LeetCodee/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
+| [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nitya1705/LeetCodee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Nitya1705/LeetCodee/tree/master/1470-shuffle-the-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nitya1705/LeetCodee/tree/master/0733-flood-fill) |
 | [0897-increasing-order-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitya1705/LeetCodee/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Nitya1705/LeetCodee/tree/master/3310-remove-methods-from-project) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nitya1705/LeetCodee/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Nitya1705/LeetCodee/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Nitya1705/LeetCodee/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Nitya1705/LeetCodee/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Nitya1705/LeetCodee/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Nitya1705/LeetCodee/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Nitya1705/LeetCodee/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nitya1705/LeetCodee/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
 ## Memoization
 |  |
 | ------- |
