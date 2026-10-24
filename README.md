@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Nitya1705/LeetCodee/tree/master/0905-sort-array-by-parity) |
 | [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nitya1705/LeetCodee/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nitya1705/LeetCodee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Nitya1705/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Nitya1705/LeetCodee/tree/master/1470-shuffle-the-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Nitya1705/LeetCodee/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Nitya1705/LeetCodee/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nitya1705/LeetCodee/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Nitya1705/LeetCodee/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Nitya1705/LeetCodee/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nitya1705/LeetCodee/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Nitya1705/LeetCodee/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/Nitya1705/LeetCodee/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nitya1705/LeetCodee/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
