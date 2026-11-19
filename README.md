@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nitya1705/LeetCodee/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Nitya1705/LeetCodee/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Nitya1705/LeetCodee/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Nitya1705/LeetCodee/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Nitya1705/LeetCodee/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Nitya1705/LeetCodee/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nitya1705/LeetCodee/tree/master/0231-power-of-two) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nitya1705/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Nitya1705/LeetCodee/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Nitya1705/LeetCodee/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Nitya1705/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Nitya1705/LeetCodee/tree/master/0877-stone-game) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nitya1705/LeetCodee/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nitya1705/LeetCodee/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
