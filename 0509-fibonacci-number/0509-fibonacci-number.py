@@ -1,10 +1,12 @@
 class Solution:
     def fib(self, n: int) -> int:
-        #base case
-        if n==0:
-            return 0
-        if n==1:
-            return 1
-        #recursive case
-        return self.fib(n-1)+self.fib(n-2)
-        
+        memo = {}
+
+        def dp(k: int) -> int:
+            if k <= 1:
+                return k
+            if k not in memo:
+                memo[k] = dp(k - 1) + dp(k - 2)
+            return memo[k]
+
+        return dp(n)
